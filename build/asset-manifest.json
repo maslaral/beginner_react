@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/absproxy/3000 //static/js/main.0c12cb04.chunk.js",
+    "main.js.map": "/absproxy/3000 //static/js/main.0c12cb04.chunk.js.map",
+    "runtime-main.js": "/absproxy/3000 //static/js/runtime-main.35868a88.js",
+    "runtime-main.js.map": "/absproxy/3000 //static/js/runtime-main.35868a88.js.map",
+    "index.html": "/absproxy/3000 //index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35868a88.js",
+    "static/js/main.0c12cb04.chunk.js"
+  ]
+}

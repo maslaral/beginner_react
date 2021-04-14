@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["alert"],"mappings":"2EACAA,MAAM,S","file":"static/js/main.0c12cb04.chunk.js","sourcesContent":["// let's go!\nalert('hey');"],"sourceRoot":""}
